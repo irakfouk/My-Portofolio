@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://foukas.me">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+    <img alt="Logo" src="https://foukas@foukas.me/public_html/favicon-96x96.png" />
   </a>
 </p>
 <h1 align="center">
