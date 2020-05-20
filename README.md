@@ -13,7 +13,7 @@
 - Gatsby
 - Javascript
 - Netlify
-- Cara theme
+- Cara theme(Gatsby starter)
 
 
 
