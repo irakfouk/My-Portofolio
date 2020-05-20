@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://foukas.me">
-    <text alt="foukas.me" src="" />
+    <img alt="foukas.me" src="" />
   </a>
 </p>
 <h1 align="center">
