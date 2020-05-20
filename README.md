@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://foukas.me">
-    /*<img alt="foukas.me" src="ftp://foukas@foukas.me/public_html/favicon-96x96.png" />*/
+    <img alt="foukas.me" src="" />
   </a>
 </p>
 <h1 align="center">
